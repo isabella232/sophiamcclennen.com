@@ -1,0 +1,22 @@
+{
+  "name": "sophiamcclennen.com",
+  "version": "1.0.0",
+  "description": "Personal Website for Sophia McClennen, built with Jekyll and managed with Cloudcannon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theNewDynamic/sophiamcclennen.com.git"
+  },
+  "author": "budparr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theNewDynamic/sophiamcclennen.com/issues"
+  },
+  "homepage": "https://github.com/theNewDynamic/sophiamcclennen.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
